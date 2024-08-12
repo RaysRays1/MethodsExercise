@@ -21,8 +21,7 @@
 
         public static void FavFive(string name)
         {
-            Console.WriteLine("{month} was always her and {pet} favorite.");
-            Console.WriteLine("{name} and her both love {color} they always stay up watch {show}");
+            
 
         }
     }
