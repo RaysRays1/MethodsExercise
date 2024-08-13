@@ -15,14 +15,15 @@
            string color = Console.ReadLine(); // input
            Console.WriteLine("who was your favorite pet.");
            string pet = Console.ReadLine(); // input
+           
+           Console.WriteLine($"{name} didnt know that {show} new season started in {month}.");
+           Console.WriteLine($"She loved to wear her {color} {show} shirt while she walked {pet}.");
 
 
-        }
-
-        public static void FavFive(string name)
-        {
-            
 
         }
+
+        
+        
     }
 }
